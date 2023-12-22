@@ -1,4 +1,9 @@
-### Hi there 👋
+<p><img align="center" src="https://readme-typing-svg.herokuapp.com/?color=%233772DF&center=true&lines=Hi%2C+this+is+TSM+aka+Ian+lessgooo" alt="name" /></p>
+
+### Contacts:
+
+- **Telegram:** [t.me/TSM](https://t.me/plskfcshka)
+- **Email:** [ig88acc@mail.ru](mailto:ig88acc@mail.ru)
 
 <!--
 **TriestMrtvrts/TriestMrtvrts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
