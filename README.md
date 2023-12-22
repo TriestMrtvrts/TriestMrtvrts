@@ -20,6 +20,6 @@
 </p>
 
 
-### Я обожаю Мейби Бейби `:heart:` :
+### Я обожаю Мейби Бейби :heart: :
 
 ![logo](https://github.com/TriestMrtvrts/TriestMrtvrts/assets/132760800/548f2ea8-0a11-43b0-acf0-7a286ca403bf)
