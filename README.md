@@ -1,7 +1,7 @@
 <p><img align="center" src="https://readme-typing-svg.herokuapp.com/?color=%233772DF&center=true&lines=Hi%2C+this+is+TSM+aka+Ian+lessgooo" alt="name" /></p>
 
 ### Contacts:
-
+- ### Also looking for a gf pls contact me
 - **Telegram:** [t.me/TSM](https://t.me/plskfcshka)
 - **Email:** [ig88acc@mail.ru](mailto:ig88acc@mail.ru)
 
@@ -20,17 +20,14 @@
 <a href="https://www.typescriptlang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<!--
-**TriestMrtvrts/TriestMrtvrts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stats:
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TriestMrtvrts&show_icons=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriestMrtvrts&show_icons=true&theme=default&hide_border=true" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### I coded this week:
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TriestMrtvrts&theme=default&hide_borders=true&langs_count=5" /></a>
+
