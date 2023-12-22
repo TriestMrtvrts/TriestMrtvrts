@@ -1,7 +1,6 @@
-<p><img align="center" src="https://readme-typing-svg.herokuapp.com/?color=%233772DF&center=true&lines=Hi%2C+this+is+TSM+aka+Ian+lessgooo" alt="name" /></p>
+<p><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%233772DF&center=true&lines=Hi%2C+this+is+TSM+aka+Ian+lessgooo" alt="name" /></p>
 
 ### Contacts:
-- ### Also looking for a gf pls contact me
 - **Telegram:** [t.me/TSM](https://t.me/plskfcshka)
 - **Email:** [ig88acc@mail.ru](mailto:ig88acc@mail.ru)
 
