@@ -23,3 +23,10 @@
 ### Я обожаю Мейби Бейби ❤️❤️❤️ :
 
 ![logo](https://github.com/TriestMrtvrts/TriestMrtvrts/assets/132760800/548f2ea8-0a11-43b0-acf0-7a286ca403bf)
+
+
+
+### My stats:
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriestMrtvrts&show_icons=true&theme=default&hide_border=true" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
